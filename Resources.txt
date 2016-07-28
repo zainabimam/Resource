@@ -1,0 +1,6 @@
+Application Category:Visualization & Audio
+Application Type:Video On Demand
+Application Name:Video On Demand
+No of users :526
+Required 2.1 GHZ core:22.0
+Estimated RAM :29351.0MB
